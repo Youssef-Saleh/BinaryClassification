@@ -35,7 +35,8 @@
 
     For the input, we take the x and y training data, 
     an optional input of learning rate (for the scalar multiply value for delta change if needed) 
-    and an optional input of limited iterations (incase we want to exit the algorithm after a certian number of iteration).
+    and an optional input of limited iterations 
+    (incase we want to exit the algorithm after a certian number of iteration).
 
     We then define the weights as random values from -1 to 1.
 
